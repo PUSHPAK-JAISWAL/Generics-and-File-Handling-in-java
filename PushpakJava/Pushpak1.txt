@@ -1,0 +1,7 @@
+a
+100
+Java
+Pushpak
+a
+50.6
+true
